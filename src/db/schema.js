@@ -1,4 +1,3 @@
-import { not } from "drizzle-orm";
 import { integer } from "drizzle-orm/gel-core";
 import {
   pgEnum,
